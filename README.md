@@ -28,8 +28,8 @@ To install and use this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Ressal0/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Ressal0/Medical-Records-Manager.git
+    cd Medical-Records-Manager
     ```
 
 2. Install the required dependencies:
