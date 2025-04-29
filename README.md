@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **Medical Records Manager** is a Python-based tool designed to securely handle medical records using AES encryption for data protection. This project was developed as a collaborative effort between [Ressal0](https://github.com/Ressal0) and [Mido-Hyuga](https://github.com/Mido-Hyuga).
+The **Medical Records Manager** is a Python-based tool designed to securely handle medical records using AES encryption for data protection. This project was developed as a collaborative effort between [skyrxin](https://github.com/skyrxin) and [Mido-Hyuga](https://github.com/Mido-Hyuga).
 
 ## Features
 
