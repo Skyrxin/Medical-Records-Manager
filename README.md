@@ -58,7 +58,7 @@ To install and use this project, follow these steps:
 
 This project was developed by:
 
-- [Ressal0](https://github.com/skyrxin)
+- [Skyrxin](https://github.com/skyrxin)
 - [Mido-Hyuga](https://github.com/Mido-Hyuga)
 
 ## License
