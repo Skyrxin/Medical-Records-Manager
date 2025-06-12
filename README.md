@@ -28,7 +28,7 @@ To install and use this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Ressal0/Medical-Records-Manager.git
+    git clone https://github.com/skyrxin/Medical-Records-Manager.git
     cd Medical-Records-Manager
     ```
 
@@ -58,7 +58,7 @@ To install and use this project, follow these steps:
 
 This project was developed by:
 
-- [Ressal0](https://github.com/Ressal0)
+- [Ressal0](https://github.com/skyrxin)
 - [Mido-Hyuga](https://github.com/Mido-Hyuga)
 
 ## License
